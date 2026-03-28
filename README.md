@@ -1,6 +1,6 @@
  
 ## 阶段一 【Geek 的出厂设置 - `GitHub` 入门与 Markdown 学习】
-* [**个人 Profile README 仓库**](./ProfileREADME)
+* [**个人 Profile README 仓库**](./Profile.md)
 * [**GitHub 学习笔记**](./GitHub学习笔记.md)
 * [**Markdown 学习笔记**](./Task1.2.md)
 * [**Markdown 练习文档**](./Task1.md)
