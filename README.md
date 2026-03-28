@@ -1,13 +1,13 @@
-# MyProject
-
-> **任务内容**、**任务笔记**
-
-## 📚 任务笔记
-
-阶段二
-- [GitBash推送hello.md文档流程](./Git学习笔记1.0.md)  
-
-## 🌐 相关学习链接
-
-## 📖 任务内容
-+ [GitBash的使用麻烦和解决方法](./Git学习笔记2.0.md)  
+ 
+## 阶段一 【Geek 的出厂设置 - `GitHub` 入门与 Markdown 学习】
+* **个人 Profile README 仓库**
+* **GitHub 学习笔记**
+* **Markdown 学习笔记**
+* **Markdown 练习文档**
+  
+## 阶段二 【Geek 的出厂设置 - `GitHub` 进阶与 **Git 学习**】
+* **Git 学习笔记**
+* **Git 提交练习文档 (hello.md)**
+  
+## 阶段三 【 Web 相关领域的基础 - HTML / CSS / JavaScript 】
+## 阶段四 【承上启下&大展身手】
