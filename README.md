@@ -22,7 +22,7 @@
 * [**HTML学习笔记**](./HTML学习笔记.md)
 *  [**JavaScript学习笔记**](./JavaScript学习笔记.md)
 *  [**页面编后感**](./页面编后感.md)
-*  [**Your other thoughts**](./Yourotherthoughts.md)
+*  [**Your other thoughts**](./Your-other-thoughts.md)
 ---
 
 ## 🌈 阶段四：承上启下 & 大展身手
