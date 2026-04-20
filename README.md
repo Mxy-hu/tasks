@@ -27,7 +27,9 @@
 ---
 
 ## 🌈 阶段四：承上启下 & 大展身手
-
+* [**页面编后感**](./Geek页面编后感.md)
+* [**ohther thought**](./Geek网页otherthouhgt.md)
+* [**网页链接**](https://mxy-hu.github.io/Geek.html)
 ---
 
 ✨ *Go! GO! Go!* ✨
