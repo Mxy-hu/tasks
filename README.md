@@ -32,4 +32,8 @@
 * [**网页链接**](https://mxy-hu.github.io/Geek.html)
 ---
 
-✨ *Go! GO! Go!* ✨
+
+
+# 🌟 Security Learning 🌟
+##  阶段一：安全认知与基础工具
+ * [**《网络安全方向与工具初始》**](./《网络安全方向与工具初始》.md)
